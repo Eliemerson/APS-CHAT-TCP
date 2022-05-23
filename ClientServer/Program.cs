@@ -1,0 +1,5 @@
+﻿using ClientServer;
+
+Startup.SetServer();
+
+
